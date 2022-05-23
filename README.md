@@ -1,4 +1,4 @@
-# Nom final de la formation
+# SQL : Astuces et techniques pour la data science
 
 Ce dossier Repository est lié au cours `SQL : Astuces et techniques pour la data science`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 

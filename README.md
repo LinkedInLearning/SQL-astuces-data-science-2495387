@@ -6,11 +6,6 @@ Ce dossier Repository est lié au cours `SQL : Astuces et techniques pour la dat
 
 DESCRIPTION DE LA FORMATION
 
-
-## Branches
-
-La branche master correspond au code à la fin de la formation. 
-
 ## Installation
 
 1. Pour utiliser ces fichiers d’exercice, vous avez besoin de : 

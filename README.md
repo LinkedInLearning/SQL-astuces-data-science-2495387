@@ -16,7 +16,7 @@ La branche master correspond au code à la fin de la formation.
 1. Pour utiliser ces fichiers d’exercice, vous avez besoin de : 
    - Un SGBDR tel que Microsoft SQL Server
 2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree. 
-3.Pour utiliser un fichier .sql, vous pouvez l'ouvrir directement via la GUI SSMS ou bien vous pouvz également copier/coller le contenu de ce fichier dans une page d'édition de requêtes de SSMS.
+3.Pour utiliser un fichier .sql, vous pouvez l'ouvrir directement via la GUI SSMS ou bien vous pouvez également copier/coller le contenu de ce fichier dans une page d'édition de requêtes de SSMS.
 
 
 ### Formateur

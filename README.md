@@ -2,7 +2,7 @@
 
 Ce dossier Repository est lié au cours `SQL : Astuces et techniques pour la data science`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
-![lil-thumbnail-url][lil-thumbnail-url] 
+![Nom final de la formation][lil-thumbnail-url]
 
 Grâce à cette formation de Madjid Khichane qui s'adresse à ceux qui gèrent et manipulent les données, vous ferez un tour d'horizon des requêtes en langage SQL parmi les plus utilisées en data science. En vous basant sur des exemples concrets et les fichiers d'exercice fournis, vous verrez comment restaurer une base de données, lire des données, réaliser des jointures et des fenêtrages. Vous aborderez également des fonctions avancées, comme les calculs glissants, les calculs récursifs ou encore les calculs de hiérarchies et de tendances. 
 
@@ -22,5 +22,5 @@ Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/sql-astuces-et-techniques-pour-la-data-science
-[lil-thumbnail-url]: https://media-exp1.licdn.com/dms/image/C4E0DAQGmV8059VqysQ/learning-public-crop_675_1200/0/1660727835338?e=1661342400&v=beta&t=KV6BB6s8ws2UJxgPPpoTHwRJVjaZ0ynIgXm1z9y-BwU
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/C4E0DAQGmV8059VqysQ/learning-public-crop_675_1200/0/1660727835338?e=1668157200&v=beta&t=sXzaURe-XzBNMDqK42W8sRbqj7vV0Du0mnLcn_gdeK8
 [lil-URL-trainer]: https://www.linkedin.com/learning/instructors/madjid-khichane

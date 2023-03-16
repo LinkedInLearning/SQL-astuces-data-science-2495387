@@ -22,5 +22,5 @@ Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/sql-astuces-et-techniques-pour-la-data-science
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/C4E0DAQGmV8059VqysQ/learning-public-crop_675_1200/0/1660727835338?e=1669028400&v=beta&t=ZWpw9-dWEIn5nw7Eoxn3Esq0mRvjY-JGSkMkvJH0PQ0
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2495387/2495387-1660727811584-16x9.jpg
 [lil-URL-trainer]: https://www.linkedin.com/learning/instructors/madjid-khichane
